@@ -9,7 +9,7 @@ Installation
 
 SPHERE-OB can be installed with pip + git using::
 
-	pip install git+https://github.com/adzamper71/SPHEREOB
+	pip install git+https://github.com/adzamper71/SphereOverburden
 
 Alternatively, the repository can be manually downloaded and installed using the install script, i.e., by navigating to the SPHERE-OB folder and running::
 
