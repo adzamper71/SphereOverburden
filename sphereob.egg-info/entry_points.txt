@@ -1,0 +1,2 @@
+[console_scripts]
+sphereoverburden = sphereob.GUI.sphere_overburden_gui:main
